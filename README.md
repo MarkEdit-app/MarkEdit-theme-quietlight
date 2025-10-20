@@ -10,6 +10,6 @@ To customize colors, see [Customization](https://github.com/MarkEdit-app/MarkEdi
 
 ## Installation
 
-Copy [dist/markedit-theme-quietlight.js](dist/markedit-theme-quietlight.js) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
+Copy [dist/markedit-theme-quietlight.js](dist/markedit-theme-quietlight.js?raw=true) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
 
 You can also run `yarn install && yarn build` to build and deploy the script.
